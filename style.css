@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+   text-align: center;
+}
+
+.d2{
+    text-align: center;
+}
+#demo{
+    font-size: 30px;
+}
+#btn, #rfr{
+    cursor: pointer;
+}
